@@ -4,7 +4,7 @@ Hello There !!
 
 Wellcome to My Git Profile,
 
-" This is my Git 2nd repository for java coding practice "
+" This is my 2nd Git  repository for java coding practice "
    
 
 <!--// Supported by "INCAPP"// -->
